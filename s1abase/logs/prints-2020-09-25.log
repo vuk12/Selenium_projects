@@ -1,0 +1,49 @@
+15:56:42.346 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+15:56:42.609 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+15:56:42.821 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+15:56:43.089 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+15:56:43.118 [main] INFO  objectrepository.SubmisionPageObject - Check box for disclosure web element returned
+15:56:43.502 [main] INFO  objectrepository.SubmisionPageObject - All text box for disclosure page list of web element returned
+15:56:43.548 [main] INFO  objectrepository.SubmisionPageObject - All text box for disclosure page list of web element returned
+15:56:46.047 [main] INFO  objectrepository.SubmisionPageObject - CID web element returned
+15:56:46.075 [main] INFO  objectrepository.SubmisionPageObject - Submit web element returned
+15:56:48.653 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+18:06:06.479 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+18:06:12.107 [main] INFO  stepDefinitions.LoginTests - driver initialized and window maximized
+18:06:13.276 [main] INFO  stepDefinitions.LoginTests - user was taken to Url https://qa-auto-ac20.s1a4172-beta1-app.dev-scholarone.com
+18:06:13.309 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+18:06:22.180 [main] INFO  stepDefinitions.LoginTests - user qtp@config.net was entered
+18:06:22.180 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+18:06:22.261 [main] INFO  stepDefinitions.LoginTests - password password4qa2 was entered
+18:06:22.261 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+18:06:25.075 [main] INFO  stepDefinitions.LoginTests - login button was clicked
+18:06:25.076 [main] INFO  objectrepository.WelcomePageObjects - Ok button for incomplete returned
+18:06:26.541 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+18:06:26.541 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+18:06:27.302 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+18:06:31.317 [main] INFO  stepDefinitions.LoginTests - driver initialized and window maximized
+18:06:37.045 [main] INFO  stepDefinitions.LoginTests - user was taken to Url https://qa-auto-ac20.s1a4172-beta1-app.dev-scholarone.com
+18:06:37.047 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+18:06:37.267 [main] INFO  stepDefinitions.LoginTests - user qtp@config.net was entered
+18:06:37.267 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+18:06:37.339 [main] INFO  stepDefinitions.LoginTests - password password4qa2 was entered
+18:06:37.339 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+18:06:39.510 [main] INFO  stepDefinitions.LoginTests - login button was clicked
+18:06:39.510 [main] INFO  objectrepository.WelcomePageObjects - Ok button for incomplete returned
+18:06:49.569 [main] INFO  objectrepository.WelcomePageObjects - submission center returned
+18:06:51.743 [main] INFO  objectrepository.SubmisionPageObject - submission linnk web element returned
+18:06:52.940 [main] INFO  objectrepository.SubmisionPageObject - submisionTypeTable web element returned
+18:06:53.052 [main] INFO  resources.SubmitAbstractGlobal - This is a role name for submission:Free Submission
+18:06:53.422 [main] INFO  objectrepository.SubmisionPageObject - continue button web element returned
+18:06:54.280 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+18:06:59.314 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+18:07:00.686 [main] INFO  objectrepository.SubmisionPageObject - presentation type web element returned
+18:07:01.315 [main] INFO  objectrepository.SubmisionPageObject - Subpresentation type web element returned
+18:07:01.379 [main] INFO  objectrepository.SubmisionPageObject - Subpresentation type web element returned
+18:07:01.702 [main] INFO  objectrepository.SubmisionPageObject - Category type web element returned
+18:07:02.298 [main] INFO  objectrepository.SubmisionPageObject - Subcategory type web element returned
+18:07:02.361 [main] INFO  objectrepository.SubmisionPageObject - Subcategory type web element returned
+18:07:02.679 [main] INFO  objectrepository.SubmisionPageObject - Keyword web element returned
+18:07:02.999 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+18:07:05.317 [main] INFO  objectrepository.SubmisionPageObject - Author Institution web element returned
+18:07:05.695 [main] INFO  objectrepository.SubmisionPageObject - Author Disclosure web element returned

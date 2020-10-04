@@ -1,0 +1,52 @@
+23:13:06.795 [main] INFO  objectrepository.AdminPageObjects - yesModalBtn button web element returned
+23:13:08.853 [main] INFO  objectrepository.AdminPageObjects - okModalBtn button web element returned
+23:13:10.756 [main] INFO  objectrepository.WelcomePageObjects - logOutLnk for incomplete returned
+23:13:13.919 [main] INFO  objectrepository.WelcomePageObjects - leaveAsDraft for incomplete returned
+23:13:24.042 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+23:13:24.890 [main] INFO  resources.CommonGlobalMethods - user qtp@config.net was entered
+23:13:24.891 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+23:13:25.520 [main] INFO  resources.CommonGlobalMethods - password password4qa2 was entered
+23:13:25.521 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+23:13:29.324 [main] INFO  resources.CommonGlobalMethods - login button was clicked
+23:13:29.327 [main] INFO  objectrepository.WelcomePageObjects - Developer center returned
+23:13:34.541 [main] INFO  objectrepository.DeveloperPageObject - timerTaskLnk element returned
+23:13:35.126 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+23:13:35.128 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+23:15:03.726 [main] INFO  stepDefinitions.LoginTests - driver initialized and window maximized
+23:15:03.820 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+23:15:14.138 [main] INFO  stepDefinitions.LoginTests - user was taken to Url https://qa-auto-ac20.s1a4172-beta1-app.dev-scholarone.com
+23:15:14.579 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+23:15:15.384 [main] INFO  stepDefinitions.LoginTests - user qtp@config.net was entered
+23:15:15.385 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+23:15:15.654 [main] INFO  stepDefinitions.LoginTests - password password4qa2 was entered
+23:15:15.654 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+23:15:18.871 [main] INFO  stepDefinitions.LoginTests - login button was clicked
+23:15:18.872 [main] INFO  objectrepository.WelcomePageObjects - Ok button for incomplete returned
+23:15:29.143 [main] INFO  objectrepository.WelcomePageObjects - Config center returned
+23:15:33.296 [main] INFO  objectrepository.ConfigPageObjects - Title & Body Lnk web element returned
+23:15:35.329 [main] INFO  objectrepository.ConfigPageObjects - Title Case buttons web element returned
+23:15:35.883 [main] INFO  objectrepository.ConfigPageObjects - Save btn web element returned
+23:15:37.665 [main] INFO  objectrepository.WelcomePageObjects - Admin center returned
+23:15:41.434 [main] INFO  objectrepository.AdminPageObjects - clientConfigLnk Lnk web element returned
+23:15:45.639 [main] INFO  objectrepository.AdminPageObjects - generalConfigLnk web element returned
+23:15:48.206 [main] INFO  objectrepository.AdminPageObjects - titleCaseOwerListTb web element returned
+23:15:48.542 [main] INFO  objectrepository.AdminPageObjects - titleCaseOwerListTb web element returned
+23:15:49.530 [main] INFO  objectrepository.AdminPageObjects - saveBtn Lnk web element returned
+23:15:54.722 [main] INFO  objectrepository.WelcomePageObjects - Admin center returned
+23:15:57.274 [main] INFO  objectrepository.AdminPageObjects - Data Export Lnk web element returned
+23:16:01.504 [main] INFO  objectrepository.AdminPageObjects - Start New Export button web element returned
+23:16:02.262 [main] INFO  objectrepository.AdminPageObjects - exportNameTbt button web element returned
+23:16:07.301 [main] INFO  objectrepository.AdminPageObjects - saveModalBtn button web element returned
+23:16:07.925 [main] INFO  objectrepository.AdminPageObjects - yesModalBtn button web element returned
+23:16:08.490 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+23:16:08.492 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+23:20:30.908 [main] INFO  stepDefinitions.LoginTests - driver initialized and window maximized
+23:20:30.947 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+23:20:38.855 [main] INFO  stepDefinitions.LoginTests - user was taken to Url https://qa-auto-ac20.s1a4172-beta1-app.dev-scholarone.com
+23:20:39.007 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+23:20:39.669 [main] INFO  stepDefinitions.LoginTests - user qtp@config.net was entered
+23:20:39.669 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+23:20:39.893 [main] INFO  stepDefinitions.LoginTests - password password4qa2 was entered
+23:20:39.894 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+23:20:42.497 [main] INFO  stepDefinitions.LoginTests - login button was clicked
+23:20:42.497 [main] INFO  objectrepository.WelcomePageObjects - Ok button for incomplete returned

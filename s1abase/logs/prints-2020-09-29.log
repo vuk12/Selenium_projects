@@ -1,0 +1,47 @@
+13:18:43.269 [main] INFO  objectrepository.SubmisionPageObject - submission linnk web element returned
+13:18:44.793 [main] INFO  objectrepository.SubmisionPageObject - submisionTypeTable web element returned
+13:18:45.129 [main] INFO  resources.SubmitAbstractGlobal - This is a role name for submission:Free Submission
+13:18:45.850 [main] INFO  objectrepository.SubmisionPageObject - continue button web element returned
+13:18:46.441 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+13:18:52.961 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+13:18:55.440 [main] INFO  objectrepository.SubmisionPageObject - presentation type web element returned
+13:18:56.621 [main] INFO  objectrepository.SubmisionPageObject - Subpresentation type web element returned
+13:18:56.850 [main] INFO  objectrepository.SubmisionPageObject - Subpresentation type web element returned
+13:18:57.483 [main] INFO  objectrepository.SubmisionPageObject - Category type web element returned
+13:18:58.393 [main] INFO  objectrepository.SubmisionPageObject - Subcategory type web element returned
+13:18:58.615 [main] INFO  objectrepository.SubmisionPageObject - Subcategory type web element returned
+13:18:59.239 [main] INFO  objectrepository.SubmisionPageObject - Keyword web element returned
+13:18:59.878 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+13:19:04.247 [main] INFO  objectrepository.SubmisionPageObject - Author Institution web element returned
+13:19:04.948 [main] INFO  objectrepository.SubmisionPageObject - Author Disclosure web element returned
+13:19:05.650 [main] INFO  objectrepository.SubmisionPageObject - Disclosure Answer web element returned
+13:19:06.697 [main] INFO  objectrepository.SubmisionPageObject - Save and continue button in disclosure popUp web element returned
+13:19:07.876 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+13:19:10.894 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+13:19:11.474 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+13:19:11.883 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+13:19:12.124 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+13:19:12.491 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+13:19:12.730 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+13:19:13.108 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+13:19:13.248 [main] INFO  objectrepository.SubmisionPageObject - Check box for disclosure web element returned
+13:19:13.975 [main] INFO  objectrepository.SubmisionPageObject - All text box for disclosure page list of web element returned
+13:19:14.175 [main] INFO  objectrepository.SubmisionPageObject - All text box for disclosure page list of web element returned
+13:19:17.880 [main] INFO  objectrepository.SubmisionPageObject - CID web element returned
+13:19:17.931 [main] INFO  objectrepository.SubmisionPageObject - Submit web element returned
+13:19:19.805 [main] INFO  objectrepository.WelcomePageObjects - Admin center returned
+13:19:23.190 [main] INFO  objectrepository.AdminPageObjects - Data Export Lnk web element returned
+13:19:25.644 [main] INFO  objectrepository.AdminPageObjects - Start New Export button web element returned
+13:19:26.631 [main] INFO  objectrepository.AdminPageObjects - exportNameTbt button web element returned
+13:19:28.930 [main] INFO  objectrepository.AdminPageObjects - saveModalBtn button web element returned
+13:19:29.797 [main] INFO  objectrepository.AdminPageObjects - yesModalBtn button web element returned
+13:19:31.229 [main] INFO  objectrepository.AdminPageObjects - okModalBtn button web element returned
+13:19:32.780 [main] INFO  objectrepository.WelcomePageObjects - logOutLnk for incomplete returned
+13:19:34.553 [main] INFO  objectrepository.WelcomePageObjects - leaveAsDraft for incomplete returned
+13:19:44.624 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+13:19:45.010 [main] INFO  resources.CommonGlobalMethods - user qtp@config.net was entered
+13:19:45.010 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+13:19:45.174 [main] INFO  resources.CommonGlobalMethods - password password4qa2 was entered
+13:19:45.175 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+13:19:46.879 [main] INFO  resources.CommonGlobalMethods - login button was clicked
+13:19:46.880 [main] INFO  objectrepository.WelcomePageObjects - Developer center returned

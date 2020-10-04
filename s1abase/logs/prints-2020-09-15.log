@@ -1,0 +1,52 @@
+13:34:33.272 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+13:34:35.936 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+13:34:35.936 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+13:36:03.636 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+13:36:08.778 [main] INFO  stepDefinitions.stepDefinitions - driver initialized and window maximized
+13:36:14.519 [main] INFO  stepDefinitions.stepDefinitions - user was taken to Url https://qa-rat.s1a4171-impl1-app.dev-scholarone.com
+13:36:14.556 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+13:36:14.626 [main] INFO  stepDefinitions.stepDefinitions - user test@testing12345.com was entered
+13:36:14.627 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+13:36:14.678 [main] INFO  stepDefinitions.stepDefinitions - password password4qa2 was entered
+13:36:14.678 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+13:36:16.205 [main] INFO  stepDefinitions.stepDefinitions - login button was clicked
+13:36:16.215 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+13:36:16.215 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+14:23:39.806 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+14:23:45.934 [main] INFO  stepDefinitions.stepDefinitions - driver initialized and window maximized
+14:23:51.458 [main] INFO  stepDefinitions.stepDefinitions - user was taken to Url https://qa-rat.s1a4171-impl1-app.dev-scholarone.com
+14:23:51.506 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+14:23:51.634 [main] INFO  stepDefinitions.stepDefinitions - user test@testing12345.com was entered
+14:23:51.635 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+14:23:51.703 [main] INFO  stepDefinitions.stepDefinitions - password password4qa2 was entered
+14:23:51.703 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+14:23:53.271 [main] INFO  stepDefinitions.stepDefinitions - login button was clicked
+14:23:53.282 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+14:23:53.282 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+14:27:21.707 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+14:27:27.704 [main] INFO  stepDefinitions.stepDefinitions - driver initialized and window maximized
+14:27:32.642 [main] INFO  stepDefinitions.stepDefinitions - user was taken to Url https://qa-rat.s1a4171-impl1-app.dev-scholarone.com
+14:27:32.688 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+14:27:32.765 [main] INFO  stepDefinitions.stepDefinitions - user test@testing12345.com was entered
+14:27:32.765 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+14:27:32.815 [main] INFO  stepDefinitions.stepDefinitions - password password4qa2 was entered
+14:27:32.815 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+14:27:34.329 [main] INFO  stepDefinitions.stepDefinitions - login button was clicked
+14:27:34.336 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+14:27:34.336 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+15:26:52.558 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+15:26:57.664 [main] INFO  stepDefinitions.stepDefinitions - driver initialized and window maximized
+15:26:57.823 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+15:26:57.824 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+15:31:05.019 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+15:31:10.108 [main] INFO  stepDefinitions.stepDefinitions - driver initialized and window maximized
+15:31:10.271 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+15:31:10.272 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+15:39:41.957 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+15:39:47.057 [main] INFO  stepDefinitions.stepDefinitions - driver initialized and window maximized
+15:39:52.651 [main] INFO  stepDefinitions.stepDefinitions - user was taken to Url https://qa-rat.s1a4172-beta1-app.dev-scholarone.com
+15:39:52.685 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+15:39:52.764 [main] INFO  stepDefinitions.stepDefinitions - user test@testing12345.com was entered
+15:39:52.764 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+15:39:52.818 [main] INFO  stepDefinitions.stepDefinitions - password password4qa2 was entered
+15:39:52.818 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned

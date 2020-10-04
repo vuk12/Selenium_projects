@@ -1,0 +1,52 @@
+13:41:02.034 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+13:41:02.095 [main] INFO  stepDefinitions.LoginTests - password password4qa2 was entered
+13:41:02.096 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+13:41:03.598 [main] INFO  stepDefinitions.LoginTests - login button was clicked
+13:41:03.615 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+13:41:03.615 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+09:08:35.746 [main] INFO  stepDefinitions.LoginTests - driver initialized and window maximized
+09:08:35.762 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+09:08:40.744 [main] INFO  stepDefinitions.LoginTests - user was taken to Url https://qa-rat.s1a4171-impl1-app.dev-scholarone.com
+09:08:40.782 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+09:08:40.860 [main] INFO  stepDefinitions.LoginTests - user test@testing12345.com was entered
+09:08:40.860 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+09:08:40.917 [main] INFO  stepDefinitions.LoginTests - password password4qa2 was entered
+09:08:40.917 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+09:08:42.463 [main] INFO  stepDefinitions.LoginTests - login button was clicked
+09:08:42.472 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+09:08:42.472 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+14:19:20.893 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+14:19:28.922 [main] INFO  stepDefinitions.LoginTests - driver initialized and window maximized
+14:19:30.396 [main] INFO  stepDefinitions.LoginTests - user was taken to Url https://qa-auto-ac20.s1a4171-stage1-app.dev-scholarone.com
+14:19:30.438 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+14:19:40.480 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+14:19:40.480 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+14:19:52.522 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+14:19:57.967 [main] INFO  stepDefinitions.LoginTests - driver initialized and window maximized
+14:20:05.675 [main] INFO  stepDefinitions.LoginTests - user was taken to Url https://qa-auto-ac20.s1a4171-stage1-app.dev-scholarone.com
+14:20:05.718 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+14:20:06.016 [main] INFO  stepDefinitions.LoginTests - user test@testing12345.com was entered
+14:20:06.016 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+14:20:06.097 [main] INFO  stepDefinitions.LoginTests - password password4qa2 was entered
+14:20:06.097 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+14:20:09.551 [main] INFO  stepDefinitions.LoginTests - login button was clicked
+14:20:09.569 [main] INFO  objectrepository.WelcomePageObjects - submission center returned
+14:20:09.645 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+14:20:09.645 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+14:20:53.160 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+14:20:58.820 [main] INFO  stepDefinitions.LoginTests - driver initialized and window maximized
+14:21:07.511 [main] INFO  stepDefinitions.LoginTests - user was taken to Url https://qa-auto-ac20.s1a4171-stage1-app.dev-scholarone.com
+14:21:07.554 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+14:21:07.876 [main] INFO  stepDefinitions.LoginTests - user test@testing12345.com was entered
+14:21:07.876 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+14:21:07.975 [main] INFO  stepDefinitions.LoginTests - password password4qa2 was entered
+14:21:07.975 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+14:21:12.080 [main] INFO  stepDefinitions.LoginTests - login button was clicked
+14:21:12.083 [main] INFO  objectrepository.WelcomePageObjects - submission center returned
+14:21:12.148 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+14:21:12.148 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks
+14:22:27.573 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+14:22:32.027 [main] INFO  stepDefinitions.LoginTests - driver initialized and window maximized
+14:22:39.698 [main] INFO  stepDefinitions.LoginTests - user was taken to Url https://qa-auto-ac20.s1a4171-stage1-app.dev-scholarone.com
+14:22:39.730 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+14:22:40.015 [main] INFO  stepDefinitions.LoginTests - user test@testing12345.com was entered

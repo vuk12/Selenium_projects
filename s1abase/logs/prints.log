@@ -1,0 +1,52 @@
+14:36:38.017 [main] INFO  objectrepository.AdminPageObjects - saveModalBtn button web element returned
+14:36:38.722 [main] INFO  objectrepository.AdminPageObjects - yesModalBtn button web element returned
+14:36:40.812 [main] INFO  objectrepository.AdminPageObjects - okModalBtn button web element returned
+14:36:43.970 [main] INFO  objectrepository.WelcomePageObjects - logOutLnk for incomplete returned
+14:36:46.019 [main] INFO  objectrepository.WelcomePageObjects - leaveAsDraft for incomplete returned
+14:36:56.120 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+14:36:56.653 [main] INFO  resources.CommonGlobalMethods - user qtp@config.net was entered
+14:36:56.654 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+14:36:57.042 [main] INFO  resources.CommonGlobalMethods - password password4qa2 was entered
+14:36:57.043 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+14:36:57.239 [main] INFO  resources.CommonGlobalMethods - login button was clicked
+14:36:57.239 [main] INFO  objectrepository.WelcomePageObjects - Developer center returned
+14:37:03.616 [main] INFO  objectrepository.DeveloperPageObject - timerTaskLnk element returned
+14:37:03.813 [main] INFO  objectrepository.DeveloperPageObject - timerTable element returned
+14:37:06.137 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:EmailSenderTimerTask
+[run timer now]
+14:37:06.268 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:IPChangeNotifierTimerTask
+[run timer now]
+14:37:06.388 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:ConnectionDumpTimerTask
+[run timer now]
+14:37:06.515 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:CacheResetTimerTask
+[run timer now]
+14:37:06.655 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:UpdateLuceneLegacyTimerTask
+[run timer now]
+14:37:06.783 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:JobTimerTask
+[run timer now]
+14:37:06.914 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:PurgeTimerTask
+[run timer now]
+14:37:07.043 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:DataExportTimerTask
+[run timer now]
+14:37:07.186 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:ProgramExportTimerTask
+[run timer now]
+14:37:07.535 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:HealthCheckTimerTask
+[run timer now]
+14:37:07.681 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:XMLDataExportTimerTask
+[run timer now]
+14:38:08.261 [main] INFO  objectrepository.WelcomePageObjects - Admin center returned
+14:38:13.016 [main] INFO  objectrepository.AdminPageObjects - Data Export Lnk web element returned
+14:38:16.292 [main] INFO  objectrepository.AdminPageObjects - dataExportTable Lnk web element returned
+14:38:20.530 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+14:38:22.182 [main] INFO  stepDefinitions.hooks - executed the doSomethingBefore method in hooks
+14:38:28.099 [main] INFO  stepDefinitions.LoginTests - driver initialized and window maximized
+14:38:41.100 [main] INFO  stepDefinitions.LoginTests - user was taken to Url https://qa-auto-ac20.s1a4173-beta1-app.dev-scholarone.com
+14:38:41.102 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+14:38:41.561 [main] INFO  stepDefinitions.LoginTests - user qtp@config.net was entered
+14:38:41.561 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+14:38:41.827 [main] INFO  stepDefinitions.LoginTests - password password4qa2 was entered
+14:38:41.827 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+14:38:44.353 [main] INFO  stepDefinitions.LoginTests - login button was clicked
+14:38:44.354 [main] INFO  objectrepository.WelcomePageObjects - Ok button for incomplete returned
+14:38:54.398 [main] INFO  stepDefinitions.hooks - executing the AfterScenario method in hooks
+14:38:54.399 [main] INFO  stepDefinitions.hooks - executing the embedScreenshot method in hooks

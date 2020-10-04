@@ -1,0 +1,9 @@
+resources\SubmitAbstractGlobal.class
+objectrepository\SubmisionPageObject.class
+resources\CommonGlobalMethods.class
+resources\base.class
+objectrepository\ConfigPageObjects.class
+objectrepository\AdminPageObjects.class
+objectrepository\LoginPageObjects.class
+objectrepository\WelcomePageObjects.class
+objectrepository\DeveloperPageObject.class

@@ -1,0 +1,45 @@
+14:35:33.902 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+14:35:34.145 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+14:35:34.391 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+14:35:34.614 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+14:35:34.683 [main] INFO  objectrepository.SubmisionPageObject - Check box for disclosure web element returned
+14:35:35.501 [main] INFO  objectrepository.SubmisionPageObject - All text box for disclosure page list of web element returned
+14:35:35.875 [main] INFO  objectrepository.SubmisionPageObject - All text box for disclosure page list of web element returned
+14:35:40.866 [main] INFO  objectrepository.SubmisionPageObject - CID web element returned
+14:35:40.968 [main] INFO  objectrepository.SubmisionPageObject - Submit web element returned
+14:35:43.573 [main] INFO  objectrepository.WelcomePageObjects - submission center returned
+14:35:45.988 [main] INFO  objectrepository.SubmisionPageObject - submission linnk web element returned
+14:35:49.360 [main] INFO  objectrepository.SubmisionPageObject - submisionTypeTable web element returned
+14:35:49.596 [main] INFO  resources.SubmitAbstractGlobal - This is a role name for submission:Free Submission
+14:35:50.071 [main] INFO  objectrepository.SubmisionPageObject - continue button web element returned
+14:35:51.252 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+14:35:58.186 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+14:36:02.495 [main] INFO  objectrepository.SubmisionPageObject - presentation type web element returned
+14:36:03.134 [main] INFO  objectrepository.SubmisionPageObject - Subpresentation type web element returned
+14:36:03.292 [main] INFO  objectrepository.SubmisionPageObject - Subpresentation type web element returned
+14:36:03.642 [main] INFO  objectrepository.SubmisionPageObject - Category type web element returned
+14:36:04.318 [main] INFO  objectrepository.SubmisionPageObject - Subcategory type web element returned
+14:36:04.503 [main] INFO  objectrepository.SubmisionPageObject - Subcategory type web element returned
+14:36:04.833 [main] INFO  objectrepository.SubmisionPageObject - Keyword web element returned
+14:36:05.314 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+14:36:10.120 [main] INFO  objectrepository.SubmisionPageObject - Author Institution web element returned
+14:36:10.513 [main] INFO  objectrepository.SubmisionPageObject - Author Disclosure web element returned
+14:36:10.859 [main] INFO  objectrepository.SubmisionPageObject - Disclosure Answer web element returned
+14:36:13.255 [main] INFO  objectrepository.SubmisionPageObject - Save and continue button in disclosure popUp web element returned
+14:36:15.012 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+14:36:18.178 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+14:36:18.438 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+14:36:18.664 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+14:36:18.895 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+14:36:19.108 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+14:36:19.333 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+14:36:19.595 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+14:36:19.661 [main] INFO  objectrepository.SubmisionPageObject - Check box for disclosure web element returned
+14:36:20.342 [main] INFO  objectrepository.SubmisionPageObject - All text box for disclosure page list of web element returned
+14:36:20.713 [main] INFO  objectrepository.SubmisionPageObject - All text box for disclosure page list of web element returned
+14:36:24.596 [main] INFO  objectrepository.SubmisionPageObject - CID web element returned
+14:36:24.676 [main] INFO  objectrepository.SubmisionPageObject - Submit web element returned
+14:36:27.869 [main] INFO  objectrepository.WelcomePageObjects - Admin center returned
+14:36:31.442 [main] INFO  objectrepository.AdminPageObjects - Data Export Lnk web element returned
+14:36:34.161 [main] INFO  objectrepository.AdminPageObjects - Start New Export button web element returned
+14:36:34.829 [main] INFO  objectrepository.AdminPageObjects - exportNameTbt button web element returned

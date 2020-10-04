@@ -1,0 +1,54 @@
+21:30:07.498 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+21:30:10.812 [main] INFO  objectrepository.SubmisionPageObject - Author Institution web element returned
+21:30:11.420 [main] INFO  objectrepository.SubmisionPageObject - Author Disclosure web element returned
+21:30:11.903 [main] INFO  objectrepository.SubmisionPageObject - Disclosure Answer web element returned
+21:30:14.235 [main] INFO  objectrepository.SubmisionPageObject - Save and continue button in disclosure popUp web element returned
+21:30:16.068 [main] INFO  objectrepository.SubmisionPageObject - welcome_text web element returned
+21:30:18.343 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+21:30:18.619 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+21:30:18.882 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+21:30:19.134 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+21:30:19.370 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+21:30:19.595 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+21:30:19.831 [main] INFO  objectrepository.SubmisionPageObject - All radio buttons for disclosure page list of web element returned
+21:30:19.876 [main] INFO  objectrepository.SubmisionPageObject - Check box for disclosure web element returned
+21:30:20.231 [main] INFO  objectrepository.SubmisionPageObject - All text box for disclosure page list of web element returned
+21:30:20.470 [main] INFO  objectrepository.SubmisionPageObject - All text box for disclosure page list of web element returned
+21:30:23.684 [main] INFO  objectrepository.SubmisionPageObject - CID web element returned
+21:30:23.824 [main] INFO  objectrepository.SubmisionPageObject - Submit web element returned
+21:30:25.470 [main] INFO  objectrepository.WelcomePageObjects - Admin center returned
+21:30:28.037 [main] INFO  objectrepository.AdminPageObjects - Data Export Lnk web element returned
+21:30:30.474 [main] INFO  objectrepository.AdminPageObjects - Start New Export button web element returned
+21:30:31.151 [main] INFO  objectrepository.AdminPageObjects - exportNameTbt button web element returned
+21:30:34.246 [main] INFO  objectrepository.AdminPageObjects - saveModalBtn button web element returned
+21:30:34.886 [main] INFO  objectrepository.AdminPageObjects - yesModalBtn button web element returned
+21:30:36.081 [main] INFO  objectrepository.AdminPageObjects - okModalBtn button web element returned
+21:30:37.273 [main] INFO  objectrepository.WelcomePageObjects - logOutLnk for incomplete returned
+21:30:38.711 [main] INFO  objectrepository.WelcomePageObjects - leaveAsDraft for incomplete returned
+21:30:48.804 [main] INFO  objectrepository.LoginPageObjects - user web element returned
+21:30:49.288 [main] INFO  resources.CommonGlobalMethods - user qtp@config.net was entered
+21:30:49.288 [main] INFO  objectrepository.LoginPageObjects - pass web element returned
+21:30:49.472 [main] INFO  resources.CommonGlobalMethods - password password4qa2 was entered
+21:30:49.472 [main] INFO  objectrepository.LoginPageObjects - login_button web element returned
+21:30:51.011 [main] INFO  resources.CommonGlobalMethods - login button was clicked
+21:30:51.012 [main] INFO  objectrepository.WelcomePageObjects - Developer center returned
+21:30:53.693 [main] INFO  objectrepository.DeveloperPageObject - timerTaskLnk element returned
+21:30:53.944 [main] INFO  objectrepository.DeveloperPageObject - timerTable element returned
+21:30:55.111 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:EmailSenderTimerTask
+[run timer now]
+21:30:55.218 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:IPChangeNotifierTimerTask
+[run timer now]
+21:30:55.314 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:ConnectionDumpTimerTask
+[run timer now]
+21:30:55.436 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:CacheResetTimerTask
+[run timer now]
+21:30:55.619 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:UpdateLuceneLegacyTimerTask
+[run timer now]
+21:30:55.813 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:JobTimerTask
+[run timer now]
+21:30:56.003 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:PurgeTimerTask
+[run timer now]
+21:30:56.174 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:DataExportTimerTask
+[run timer now]
+21:30:56.310 [main] INFO  resources.CommonGlobalMethods - This is a role name for submission:ProgramExportTimerTask
+[run timer now]
